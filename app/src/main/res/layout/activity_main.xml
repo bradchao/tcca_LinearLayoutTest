@@ -21,6 +21,10 @@
             android:text="red"
             android:background="#f00"
             android:layout_weight="1"
+            android:textSize="36sp"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:textStyle="bold|italic"
             />
         <TextView
             android:layout_width="match_parent"
